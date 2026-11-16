@@ -40,7 +40,7 @@ The worked sizing example is illustrative. [Manual analysis](manual-rounds.md)
 
 ## Repository status
 
-The GitHub repository is private: [ictdissa/imc-prosperity-4-writeup](https://github.com/ictdissa/imc-prosperity-4-writeup). The original strategy files are preserved unchanged, with separate documentation for their operation and the retrospective manual analysis.
+The GitHub repository is public: [ictdissa/imc-prosperity-4-writeup](https://github.com/ictdissa/imc-prosperity-4-writeup). The original strategy files are preserved unchanged, with separate documentation for their operation and the retrospective manual analysis.
 
 ## Documentation scope
 
