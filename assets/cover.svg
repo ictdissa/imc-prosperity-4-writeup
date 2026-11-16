@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
+  <title id="title">Dissa Trading — IMC Prosperity 4</title>
+  <desc id="desc">Dissa Trading, a solo entry: 188th globally out of 18,803 participating teams. Top 1 percent worldwide. Top 3 in Hong Kong. Market making, options, and statistical pairs.</desc>
+  <defs>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M 56 0 L 0 0 0 56" fill="none" stroke="#ffffff" stroke-opacity="0.035"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10272b"/><stop offset="1" stop-color="#09191d"/></linearGradient>
+  </defs>
+  <rect width="1440" height="480" fill="url(#bg)" rx="20"/>
+  <rect width="1440" height="480" fill="url(#grid)" rx="20"/>
+  <rect x="64" y="58" width="36" height="4" fill="#dab986"/>
+  <text x="114" y="66" fill="#dab986" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">DISSA TRADING / STRATEGY WRITEUP</text>
+  <text x="64" y="150" fill="#f4f1e9" font-family="Arial, Helvetica, sans-serif" font-size="63" font-weight="700" letter-spacing="-2">IMC Prosperity 4</text>
+  <text x="66" y="196" fill="#a9c0c1" font-family="Arial, Helvetica, sans-serif" font-size="22">Algorithmic trading. Manual challenges. Decision-making under uncertainty.</text>
+  <line x1="64" y1="248" x2="1376" y2="248" stroke="#315052"/>
+  <text x="64" y="332" fill="#f4f1e9" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700">188<tspan font-size="29" fill="#a9c0c1"> / 18,803</tspan></text>
+  <text x="66" y="370" fill="#a9c0c1" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">GLOBAL OVERALL PLACEMENT</text>
+  <line x1="602" y1="286" x2="602" y2="380" stroke="#315052"/>
+  <text x="654" y="332" fill="#dab986" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700">Top 1%</text>
+  <text x="657" y="370" fill="#a9c0c1" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">WORLDWIDE</text>
+  <line x1="1015" y1="286" x2="1015" y2="380" stroke="#315052"/>
+  <text x="1068" y="332" fill="#dab986" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700">Top 3</text>
+  <text x="1071" y="370" fill="#a9c0c1" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">HONG KONG</text>
+  <text x="66" y="439" fill="#789799" font-family="Arial, Helvetica, sans-serif" font-size="15">SOLO ENTRY  /  PYTHON  /  RESEARCH, IMPLEMENTATION &amp; BACKTESTING</text>
+  <circle cx="1350" cy="431" r="5" fill="#dab986"/>
+</svg>

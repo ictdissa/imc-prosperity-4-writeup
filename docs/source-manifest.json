@@ -1,0 +1,26 @@
+{
+  "description": "Participant-supplied trader files, preserved without edits.",
+  "files": [
+    {
+      "round": 3,
+      "original_filename": "381447.py",
+      "repository_path": "strategies/round_3.py",
+      "sha256": "9ca39ddbf1d03bb99881917979d7ae822ffdf931a681c0a2c43f58125f80f466",
+      "size_bytes": 12503
+    },
+    {
+      "round": 4,
+      "original_filename": "trader_round4_v17_final_official_proven.py",
+      "repository_path": "strategies/round_4.py",
+      "sha256": "95bb2b94778a0f60dfd72291fb94f92a037732236f513efcb6e0d55fb476de0c",
+      "size_bytes": 27464
+    },
+    {
+      "round": 5,
+      "original_filename": "563088.py",
+      "repository_path": "strategies/round_5.py",
+      "sha256": "972f2e9f8318f7707e7291a9bc3ff3a246b45394bc0eba35f365cdb75c3f7be8",
+      "size_bytes": 13806
+    }
+  ]
+}
